@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZb44Ig6qmZLFl1IHo9kEc87aodVnv5GGn2Y41lKz2HbLajA3OqHKthbDlBuLAi7CzAUn2HhPUs9dZKW6BKkzA==",
+  "success": true,
+  "projectFilePath": "E:\\web202305\\mf1663-lbthanh\\aspnetcore\\MISA.WebFresher052023.HCSN\\MISA.WebFresher052023.HCSN.Application\\MISA.WebFresher052023.HCSN.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thành\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Thành\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Thành\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Thành\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Thành\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Thành\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Thành\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
